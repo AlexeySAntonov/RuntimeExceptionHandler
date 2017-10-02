@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">Runtime exceptions handler</string>
+
+	<string name="exception_dialog_title">Show exception stack: %1$s</string>
+	<string name="report_buttont_text">Report</string>
+	<string name="index_out_of_bounds_exception">Index out of bounds exception</string>
+	<string name="produce_arithmetic_exception">Arithmetic exception</string>
+	<string name="produce_npe_exception">NPE exception</string>
+	<string name="describe_problem">Describe the problem</string>
+	<string name="tap_to_produce">Tap to produce</string>
+</resources>
